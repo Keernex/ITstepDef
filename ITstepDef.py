@@ -1,6 +1,5 @@
 def vl(q):
     p=""
-    s=0
     for i in range(len(q)):
         if q[i-1]==" " and q[i].isalpha():
             p+=q[i].capitalize()
