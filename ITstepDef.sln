@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITstepDef", "ITstepDef.pyproj", "{ABAA43CA-DA74-40B0-9DD7-C0DEE3E35A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAA43CA-DA74-40B0-9DD7-C0DEE3E35A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAA43CA-DA74-40B0-9DD7-C0DEE3E35A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B95A449-3CA8-4FFA-AA82-1AC8B6EDF1BB}
+	EndGlobalSection
+EndGlobal
